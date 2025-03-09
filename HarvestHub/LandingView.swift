@@ -2,7 +2,7 @@
 //  LandingView.swift
 //  HarvestHub
 //
-//  Created by Spartan on 3/9/25.
+//  
 //
 
 import SwiftUI
