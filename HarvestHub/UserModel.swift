@@ -14,7 +14,7 @@ enum UserRole: String, Codable {
     case guest = "Guest"
 }
 
-class User: Identifiable, Codable {
+class UserModel: Identifiable, Codable {
     var id: String // student ID
     var name: String
     var email: String
